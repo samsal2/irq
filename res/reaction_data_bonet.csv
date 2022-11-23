@@ -1,4 +1,4 @@
-Reaction,A,Ea,Ainv,Eainv
+j,A(L/mols),Ea(J/mol),Ainv(L/mols),Eainv(J/mol)
 1,6.9,3.1e4,190,3.3e4
 2,6.8,3.1e4,220,3.8e4
 3,2.4,3.4e4,200,4.3e4
